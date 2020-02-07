@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+C:\Users\Dell\source\repos\ErrorHandling\bin\Debug\ErrorHandling.exe
+C:\Users\Dell\source\repos\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\Dell\source\repos\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ErrorHandling\obj\Debug\ErrorHandling.exe
+C:\Users\Dell\source\repos\ErrorHandling\obj\Debug\ErrorHandling.pdb

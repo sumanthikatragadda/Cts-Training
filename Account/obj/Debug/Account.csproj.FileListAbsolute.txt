@@ -1,0 +1,6 @@
+D:\susmitha\Account\obj\Debug\Account.csprojAssemblyReference.cache
+D:\susmitha\Account\bin\Debug\Account.exe.config
+D:\susmitha\Account\bin\Debug\Account.exe
+D:\susmitha\Account\bin\Debug\Account.pdb
+D:\susmitha\Account\obj\Debug\Account.exe
+D:\susmitha\Account\obj\Debug\Account.pdb

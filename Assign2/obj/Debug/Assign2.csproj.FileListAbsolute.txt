@@ -1,0 +1,6 @@
+D:\susmitha\Assign2\obj\Debug\Assign2.csprojAssemblyReference.cache
+D:\susmitha\Assign2\bin\Debug\HelloWorld.exe.config
+D:\susmitha\Assign2\bin\Debug\HelloWorld.exe
+D:\susmitha\Assign2\bin\Debug\HelloWorld.pdb
+D:\susmitha\Assign2\obj\Debug\HelloWorld.exe
+D:\susmitha\Assign2\obj\Debug\HelloWorld.pdb

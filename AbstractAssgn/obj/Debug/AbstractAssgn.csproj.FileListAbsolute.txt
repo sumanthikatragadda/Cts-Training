@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\AbstractAssgn\bin\Debug\AbstractAssgn.exe.config
+C:\Users\Dell\source\repos\AbstractAssgn\bin\Debug\AbstractAssgn.exe
+C:\Users\Dell\source\repos\AbstractAssgn\bin\Debug\AbstractAssgn.pdb
+C:\Users\Dell\source\repos\AbstractAssgn\obj\Debug\AbstractAssgn.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\AbstractAssgn\obj\Debug\AbstractAssgn.exe
+C:\Users\Dell\source\repos\AbstractAssgn\obj\Debug\AbstractAssgn.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\StringFunc\bin\Debug\StringFunc.exe.config
+C:\Users\Dell\source\repos\StringFunc\bin\Debug\StringFunc.exe
+C:\Users\Dell\source\repos\StringFunc\bin\Debug\StringFunc.pdb
+C:\Users\Dell\source\repos\StringFunc\obj\Debug\StringFunc.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\StringFunc\obj\Debug\StringFunc.exe
+C:\Users\Dell\source\repos\StringFunc\obj\Debug\StringFunc.pdb

@@ -1,0 +1,6 @@
+D:\susmitha\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+D:\susmitha\Dictionary\bin\Debug\Dictionary.exe.config
+D:\susmitha\Dictionary\bin\Debug\Dictionary.exe
+D:\susmitha\Dictionary\bin\Debug\Dictionary.pdb
+D:\susmitha\Dictionary\obj\Debug\Dictionary.exe
+D:\susmitha\Dictionary\obj\Debug\Dictionary.pdb

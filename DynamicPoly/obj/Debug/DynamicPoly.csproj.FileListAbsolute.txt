@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DynamicPoly\bin\Debug\DynamicPoly.exe.config
+C:\Users\Dell\source\repos\DynamicPoly\bin\Debug\DynamicPoly.exe
+C:\Users\Dell\source\repos\DynamicPoly\bin\Debug\DynamicPoly.pdb
+C:\Users\Dell\source\repos\DynamicPoly\obj\Debug\DynamicPoly.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DynamicPoly\obj\Debug\DynamicPoly.exe
+C:\Users\Dell\source\repos\DynamicPoly\obj\Debug\DynamicPoly.pdb

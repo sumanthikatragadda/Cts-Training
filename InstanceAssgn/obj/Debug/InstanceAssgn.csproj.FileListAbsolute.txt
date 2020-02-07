@@ -1,0 +1,6 @@
+D:\sumanthi\InstanceAssgn\bin\Debug\InstanceAssgn.exe.config
+D:\sumanthi\InstanceAssgn\bin\Debug\InstanceAssgn.exe
+D:\sumanthi\InstanceAssgn\bin\Debug\InstanceAssgn.pdb
+D:\sumanthi\InstanceAssgn\obj\Debug\InstanceAssgn.csprojAssemblyReference.cache
+D:\sumanthi\InstanceAssgn\obj\Debug\InstanceAssgn.exe
+D:\sumanthi\InstanceAssgn\obj\Debug\InstanceAssgn.pdb

@@ -1,0 +1,6 @@
+D:\susmitha\OopsAssign\bin\Debug\OopsAssign.exe.config
+D:\susmitha\OopsAssign\bin\Debug\OopsAssign.exe
+D:\susmitha\OopsAssign\bin\Debug\OopsAssign.pdb
+D:\susmitha\OopsAssign\obj\Debug\OopsAssign.csprojAssemblyReference.cache
+D:\susmitha\OopsAssign\obj\Debug\OopsAssign.exe
+D:\susmitha\OopsAssign\obj\Debug\OopsAssign.pdb

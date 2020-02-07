@@ -1,0 +1,6 @@
+D:\sumanthi\DemoPartial\bin\Debug\DemoPartial.exe.config
+D:\sumanthi\DemoPartial\bin\Debug\DemoPartial.exe
+D:\sumanthi\DemoPartial\bin\Debug\DemoPartial.pdb
+D:\sumanthi\DemoPartial\obj\Debug\DemoPartial.csprojAssemblyReference.cache
+D:\sumanthi\DemoPartial\obj\Debug\DemoPartial.exe
+D:\sumanthi\DemoPartial\obj\Debug\DemoPartial.pdb

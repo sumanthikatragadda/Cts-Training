@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        //$(document).ready(function () {
+        //    $("button").click(function () {
+        //        $("p").hide();
+        //    });
+        //    $("#show").click(function () {
+        //        $("p").show();
+        //    });
+        //});
+        //$(document).ready(function () {
+        //    $("button").click(function () {
+        //        $("p").toggle();
+        //    });
+        //});
+        $(document).ready(function () {
+            $(".out-btn").click(function () {
+                $("p").fadeOut(0.5);
+               
+            });
+            $(".in-btn").click(function () {
+                $("p").fadeIn();
+            });
+        });
+    </script>
+    <title></title>
+</head>
+<body>
+    <h4>heading</h4>
+
+   <!--<button id="b1">toggle</button>-->
+    <p>paragragh</p>
+    <button class="out-btn">click to fade out</button>
+    <button class="in-btn">Click to fade in </button><br><br>
+
+   
+</body>
+</html>

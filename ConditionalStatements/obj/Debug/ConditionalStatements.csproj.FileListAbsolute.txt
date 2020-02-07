@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ConditionalStatements\obj\Debug\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\Users\Dell\source\repos\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\Dell\source\repos\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\Dell\source\repos\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\Users\Dell\source\repos\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

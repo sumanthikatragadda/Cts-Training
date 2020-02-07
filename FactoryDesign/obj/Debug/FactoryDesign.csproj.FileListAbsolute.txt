@@ -1,0 +1,6 @@
+D:\sumanthi\FactoryDesign\bin\Debug\FactoryDesign.exe.config
+D:\sumanthi\FactoryDesign\bin\Debug\FactoryDesign.exe
+D:\sumanthi\FactoryDesign\bin\Debug\FactoryDesign.pdb
+D:\sumanthi\FactoryDesign\obj\Debug\FactoryDesign.csprojAssemblyReference.cache
+D:\sumanthi\FactoryDesign\obj\Debug\FactoryDesign.exe
+D:\sumanthi\FactoryDesign\obj\Debug\FactoryDesign.pdb

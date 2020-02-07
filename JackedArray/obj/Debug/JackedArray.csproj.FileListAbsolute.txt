@@ -1,0 +1,6 @@
+D:\susmitha\JackedArray\bin\Debug\JackedArray.exe.config
+D:\susmitha\JackedArray\bin\Debug\JackedArray.exe
+D:\susmitha\JackedArray\bin\Debug\JackedArray.pdb
+D:\susmitha\JackedArray\obj\Debug\JackedArray.csprojAssemblyReference.cache
+D:\susmitha\JackedArray\obj\Debug\JackedArray.exe
+D:\susmitha\JackedArray\obj\Debug\JackedArray.pdb

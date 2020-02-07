@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Arrays1\obj\Debug\Arrays1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\Dell\source\repos\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\Dell\source\repos\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\Dell\source\repos\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\Dell\source\repos\Arrays1\obj\Debug\Arrays1.pdb

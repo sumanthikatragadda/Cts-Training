@@ -1,0 +1,6 @@
+D:\susmitha\PlayerAssgn\bin\Debug\PlayerAssgn.exe.config
+D:\susmitha\PlayerAssgn\bin\Debug\PlayerAssgn.exe
+D:\susmitha\PlayerAssgn\bin\Debug\PlayerAssgn.pdb
+D:\susmitha\PlayerAssgn\obj\Debug\PlayerAssgn.csprojAssemblyReference.cache
+D:\susmitha\PlayerAssgn\obj\Debug\PlayerAssgn.exe
+D:\susmitha\PlayerAssgn\obj\Debug\PlayerAssgn.pdb

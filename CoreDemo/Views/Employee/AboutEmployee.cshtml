@@ -1,0 +1,37 @@
+﻿@model CoreDemo.Models.EmployeeProjViewModel;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AboutEmployee</title>
+</head>
+<body>
+    <h1>Employee Details</h1>
+    <table border="1">
+        <tr>
+            <td>ID</td>
+            <td>name</td>
+            <td>email</td>
+            <td>dept</td>
+            <td>proj name</td>
+        </tr>
+        <tr>
+
+        <tr>
+            <td>@Model.employee.Id</td>
+            <td>@Model.employee.Name</td>
+            <td>@Model.employee.Email</td>
+            <td>@Model.employee.dept</td>
+            <td>@Model.projname</td>
+        </tr>
+
+
+
+    </table>
+</body>
+</html>

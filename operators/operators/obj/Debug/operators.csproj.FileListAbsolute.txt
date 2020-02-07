@@ -1,0 +1,6 @@
+D:\susmitha\operators\operators\bin\Debug\operators.exe.config
+D:\susmitha\operators\operators\bin\Debug\operators.exe
+D:\susmitha\operators\operators\bin\Debug\operators.pdb
+D:\susmitha\operators\operators\obj\Debug\operators.csprojAssemblyReference.cache
+D:\susmitha\operators\operators\obj\Debug\operators.exe
+D:\susmitha\operators\operators\obj\Debug\operators.pdb

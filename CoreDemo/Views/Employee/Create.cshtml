@@ -1,0 +1,51 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+@using (Html.BeginForm())
+{
+
+    @*Name @Html.TextBox("Textbox1", "enter name");
+        <br />
+        Address @Html.TextArea("Textarea", "enter address");
+        <br />
+        Password @Html.Password( "password");
+        <br />
+        Program @Html.ListBox("l1",new MultiSelectList(new[] {"asp",".net"}))*@
+
+    @*Name @Html.TextBoxFor(m => m.Name, "enter");
+        <br />
+        Address @Html.TextAreaFor(m => m.dept);
+        <br />
+        password @Html.PasswordFor(m => m.Id);*@
+
+    @*@Html.Display("id");
+@Html.DisplayFor(m => m.Id);
+@Html.Display("name");
+@Html.DisplayFor(m => m.Name);*@
+
+<form asp-controller="Employee" asp-action="Create" method="post">
+    <div class="form-row">
+        <label asp-for="Name" class="col=form-label">Name</label>
+        <input asp-for="Name" class="col-lg-6" />
+        <span asp-validation-for="Name"></span>
+
+    </div>
+    <div class="form-row">
+        <label asp-for="Email" class="col=form-label">Email</label>
+        <input asp-for="Email" class="col-lg-6" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div class="form-row">
+        <label asp-for="dept" class="col=form-label">dept</label>
+        <select asp-for="dept" class="col-lg-6" asp-items="Html.GetEnumSelectList<Dept>()"></select>
+        <div asp-validation-summary="All" class="text-danger"></div>
+    </div>
+    <div class="form-row">
+        <input type="submit" value="Create Employee" />
+        @*<button type="submit" value="submit"></button>*@
+    </div>
+</form>
+}

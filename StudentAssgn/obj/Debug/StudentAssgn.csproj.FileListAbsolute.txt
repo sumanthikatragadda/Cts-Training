@@ -1,0 +1,6 @@
+D:\susmitha\StudentAssgn\obj\Debug\StudentAssgn.csprojAssemblyReference.cache
+D:\susmitha\StudentAssgn\bin\Debug\StudentAssgn.exe.config
+D:\susmitha\StudentAssgn\bin\Debug\StudentAssgn.exe
+D:\susmitha\StudentAssgn\bin\Debug\StudentAssgn.pdb
+D:\susmitha\StudentAssgn\obj\Debug\StudentAssgn.exe
+D:\susmitha\StudentAssgn\obj\Debug\StudentAssgn.pdb
